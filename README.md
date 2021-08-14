@@ -4,7 +4,7 @@
 
 1. **环境准备**：win10 +Ubuntu+vscode
 
-2. **项目准备**：Msql+Nginx+Redis
+2. **项目准备**：Mysql+Nginx+Redis
 
 3. **项目功能**：
 
